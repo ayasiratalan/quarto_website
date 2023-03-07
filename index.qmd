@@ -8,9 +8,9 @@ about:
   image-width: 16em
   links:
     - icon: envelope 
-      href: mailto:jftellez@ucdavis.edu
+      href: mailto:ayasiratalan@gmail.com
     - icon: github 
-      href: https://github.com/hail2thief
+      href: https://github.com/ayasiratalan
     - icon: CV
       text: CV
       href: https://www.dropbox.com/s/fmx1cgqubxj8wzv/tellez_cv.pdf?dl=0
@@ -22,21 +22,18 @@ about:
 
 ### Bio
 
-I’m an assistant professor of political science at [The University of California, Davis](https://ps.ucdavis.edu/) where I [research](/publications.html) and [teach](/teaching.thml) on security, development, and research methods. In my research I often work with governments, international donors, and their implementing partners to improve the design and evaluation of development programming around the world. 
-
-I was born in Cali, Colombia, grew up in Cali/South Florida, and have lived in Texas, North Carolina, South Carolina, and now California. 
-
+I’m a phd candidate in political science at [the American Univerity](https://spa.american.edu/) where I [research](/publications.html) and [workas a replication analyst at Political Analysis Journal. I STUDY  political violence, diffusion of policies and social events(spillover effects), civil-military relations. Methodologically, I aim to improve the study of quantitative IR to mitigate pitfalls of measurement and modelling issues. 
+Substantively, I am interested in the topics including leader behaviors, the future of conflict and coups, and forecasting. on security, development, and research methods.
 
 
 ### Education
 
 <div class="topbr">
-<p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#022851", a11y = "sem")` **PhD in Political Science, 2019** | Duke University</p>  
 
-<p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#022851", a11y = "sem")` **MA in Political Science, 2016** | Duke University</p>  
+<p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#022851", a11y = "sem")` **MA in Middle Eastern Studies, 2018** | King's College, London</p>  
 
 
-<p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#022851", a11y = "sem")` **BA in Political Science, 2013** | University of Florida </p>  
+<p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#022851", a11y = "sem")` **BS in Political Science and International Relations, 2017** | Bogazici University </p>  
 </div>
 
 
