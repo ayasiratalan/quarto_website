@@ -1,6 +1,6 @@
 ---
-title: "Juan F. Tellez"
-subtitle: "Assistant Professor <br> Department of Political Science <br> University of California, Davis"
+title: "Abdullah Yasir Atalan"
+subtitle: "PhD Candidate <br> Department of Government <br> American University"
 image: /images/abimael-cage.jpg
 about: 
   template: trestles
