@@ -11,7 +11,7 @@ website:
   search: false
   description: "Juan F. Tellez is an assistant professor at UC Davis."
   site-url: "https://juanftellez.com/"
-  repo-url: "https://github.com/hail2thief/juan-quarto"
+  repo-url: "https://github.com/ayasiratalan/quarto_website"
   navbar:
     pinned: true
     left:
